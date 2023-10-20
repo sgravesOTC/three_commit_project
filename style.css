@@ -1,18 +1,24 @@
 body
 {
-    background-color: blueviolet;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1 {
-    color: aliceblue;
-    font-size: 5em;
+    color: rgb(17, 17, 17);
+    font-size: 3em;
+    text-align: center;
 }
 
 p {
-    color: antiquewhite;
-    font-size: 2em;
+    color: rgb(92, 92, 92);
+    font-size: 1em;
+    text-align: center;
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
